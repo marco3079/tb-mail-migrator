@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+Thunderbird-Export*/

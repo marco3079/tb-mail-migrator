@@ -1,0 +1,4 @@
+# O aplicativo usa apenas a biblioteca padrão do Python.
+# Estas dependências servem só para gerar o .exe, o ícone e as capturas de tela.
+pyinstaller>=6.0
+pillow>=10.0
